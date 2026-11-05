@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-governance-risk-and-compliance-filament",
+  "capabilityKey": "planned:sap:governance-risk-and-compliance",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/sap-governance-risk-and-compliance-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/sap/nextjs/governance-risk-and-compliance.md",
+  "presentationPlan": "projects/sap/filament/governance-risk-and-compliance.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
